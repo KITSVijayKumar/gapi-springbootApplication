@@ -1,0 +1,3433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data Schema="RSXML4.5" xmlns="http://schemas.riversand.com/mdmcenter" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.riversand.com/mdmcenter/RSXml4.5.xsd">
+	<Entities ExportProfileName="CP - Selling Content - Castorama MQ Outbound - NEW" ExportProfileTimestamp="10/23/2017 12:04:56 PM" IsApprovedCopy="True">
+		<Entity ExternalId="3121970136999" LongName="SOUFRE MINERAL NATUREN 750G" EntityTypeName="Product" ContainerName="Castorama France" OrganizationName="Kingfisher Group" CategoryName="25030001" CategoryLongName="(25030001)Lutte contre les nuisibles" CategoryPath="1//25//2503//250300//25030001" Locale="fr_FR">
+			<Attributes>
+				<Attribute Name="A-Assets" LongName="A-Assets" Sequence="-1" AttributeParentName="Digital Assets" AttributeType="ComplexCollection" Locale="en_GB">
+					<Attributes>
+						<Attribute Name="A-Assets Instance Record" LongName="A-Assets Instance Record" Sequence="0" AttributeParentName="Digital Assets" AttributeType="Complex" Locale="en_GB">
+							<Attributes>
+								<Attribute Name="A-AssetSequence" LongName="A-AssetSequence" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[0]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetDescription" LongName="A-AssetDescription" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetDisplayName" LongName="A-AssetDisplayName" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetFileName" LongName="A-AssetFileName" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[3121970136999_01P.jpg]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetID" LongName="A-AssetID" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[4C9C743A154D4108B06FEF8CAB202CEC]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetImageThumb" LongName="A-AssetImageThumb" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetImageType" LongName="A-AssetImageType" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetKind" LongName="A-AssetKind" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetLabels" LongName="A-AssetLabels" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetLocalURL" LongName="A-AssetLocalURL" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[https://kfgint.riversand.com:8443/MAMDev/assets/1/B8AC9759D45547D9AEF177F0DE13B7C8/img/4C9C743A154D4108B06FEF8CAB202CEC/3121970136999_01P.jpg]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetPrimary" LongName="A-AssetPrimary" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="100" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[Primary]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetProductDescription" LongName="A-AssetProductDescription" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetRenditions" LongName="A-AssetRenditions" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[<?xml version="1.0" encoding="utf-16"?><Renditions />]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetSize" LongName="A-AssetSize" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[61057]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetThumbnailURL" LongName="A-AssetThumbnailURL" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[https://kfgint.riversand.com:8443/MAMDev/assets/1/B8AC9759D45547D9AEF177F0DE13B7C8/img/4C9C743A154D4108B06FEF8CAB202CEC/thumb_4C9C743A154D4108B06FEF8CAB202CEC.jpg]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetType" LongName="A-AssetType" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[img]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-FilePath" LongName="A-FilePath" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[\\RSAZ-KFDEVWEB\MAMDevAssets/1/B8AC9759D45547D9AEF177F0DE13B7C8/img/4C9C743A154D4108B06FEF8CAB202CEC/3121970136999_01P.jpg]]>
+										</Value>
+									</Values>
+								</Attribute>
+							</Attributes>
+						</Attribute>
+					</Attributes>
+				</Attribute>
+				<Attribute Name="OPCO Specific SAP Attributes" LongName="OPCO Specific SAP Attributes" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="ComplexCollection" Locale="en_GB">
+					<Attributes>
+						<Attribute Name="OPCO Specific SAP Attributes Instance Record" LongName="OPCO Specific SAP Attributes Instance Record" Sequence="0" AttributeParentName="SAP Operational" AttributeType="Complex" Locale="en_GB">
+							<Attributes>
+								<Attribute Name="OPCO_Sales Org" LongName="Org vente" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="5" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[CF01]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Distribution channel" LongName="Réseau de distribution" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="12" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[10]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Assortment grade" LongName="Niveau d'assortiment" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[C1]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Opco_COC_Number" LongName="Opco_COC_Number" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Product Status" LongName="Product Status" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[99]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Product Status Validity Date From" LongName="Product Status Validity Date From" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[16/09/2016]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Item Category Group" LongName="Item Category Group" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[ZPDT]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Sales Unit" LongName="Unité de vente" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[EA]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme Indicator" LongName="Timber Scheme Indicator" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme Start Date" LongName="Timber Scheme Start Date" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme End Date" LongName="Timber Scheme End Date" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Hazardous" LongName="Hazardous" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Restricted Sale" LongName="Vente limitée" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_SAP Spare Parts Availability" LongName="SAP Spare Parts Availability" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Discount_Type" LongName="Discount Allowed" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[YES]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Price Prompt" LongName="Price Prompt" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="2" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[NO]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Code" LongName="TAX Code" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[VAT]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Class" LongName="TAX Class" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[2]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Country" LongName="TAX Country" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[FR]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_WEEE Cat" LongName="WEEE Cat" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_WEEE Sub Cat" LongName="WEEE Sub Cat" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+							</Attributes>
+						</Attribute>
+						<Attribute Name="OPCO Specific SAP Attributes Instance Record" LongName="OPCO Specific SAP Attributes Instance Record" Sequence="1" AttributeParentName="SAP Operational" AttributeType="Complex" Locale="en_GB">
+							<Attributes>
+								<Attribute Name="OPCO_Sales Org" LongName="Org vente" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="5" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[CF01]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Distribution channel" LongName="Réseau de distribution" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="14" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[30]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Assortment grade" LongName="Niveau d'assortiment" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[C1]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Opco_COC_Number" LongName="Opco_COC_Number" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Product Status" LongName="Product Status" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[31]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Product Status Validity Date From" LongName="Product Status Validity Date From" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[23/08/2016]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Item Category Group" LongName="Item Category Group" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[ZPDT]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Sales Unit" LongName="Unité de vente" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[EA]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme Indicator" LongName="Timber Scheme Indicator" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme Start Date" LongName="Timber Scheme Start Date" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme End Date" LongName="Timber Scheme End Date" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Hazardous" LongName="Hazardous" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Restricted Sale" LongName="Vente limitée" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_SAP Spare Parts Availability" LongName="SAP Spare Parts Availability" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Discount_Type" LongName="Discount Allowed" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[NO]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Price Prompt" LongName="Price Prompt" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="2" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[NO]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Code" LongName="TAX Code" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[VAT]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Class" LongName="TAX Class" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[2]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Country" LongName="TAX Country" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[FR]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_WEEE Cat" LongName="WEEE Cat" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_WEEE Sub Cat" LongName="WEEE Sub Cat" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+							</Attributes>
+						</Attribute>
+						<Attribute Name="OPCO Specific SAP Attributes Instance Record" LongName="OPCO Specific SAP Attributes Instance Record" Sequence="2" AttributeParentName="SAP Operational" AttributeType="Complex" Locale="en_GB">
+							<Attributes>
+								<Attribute Name="OPCO_Sales Org" LongName="Org vente" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="5" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[CF01]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Distribution channel" LongName="Réseau de distribution" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="13" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[20]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Assortment grade" LongName="Niveau d'assortiment" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[C1]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Opco_COC_Number" LongName="Opco_COC_Number" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Product Status" LongName="Product Status" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[20]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Product Status Validity Date From" LongName="Product Status Validity Date From" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[01/01/2017]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Item Category Group" LongName="Item Category Group" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[ZPDT]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Sales Unit" LongName="Unité de vente" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[EA]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme Indicator" LongName="Timber Scheme Indicator" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme Start Date" LongName="Timber Scheme Start Date" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme End Date" LongName="Timber Scheme End Date" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Hazardous" LongName="Hazardous" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Restricted Sale" LongName="Vente limitée" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_SAP Spare Parts Availability" LongName="SAP Spare Parts Availability" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Discount_Type" LongName="Discount Allowed" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[NO]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Price Prompt" LongName="Price Prompt" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="2" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[NO]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Code" LongName="TAX Code" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[VAT]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Class" LongName="TAX Class" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[2]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Country" LongName="TAX Country" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[FR]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_WEEE Cat" LongName="WEEE Cat" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_WEEE Sub Cat" LongName="WEEE Sub Cat" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+							</Attributes>
+						</Attribute>
+						<Attribute Name="OPCO Specific SAP Attributes Instance Record" LongName="OPCO Specific SAP Attributes Instance Record" Sequence="3" AttributeParentName="SAP Operational" AttributeType="Complex" Locale="en_GB">
+							<Attributes>
+								<Attribute Name="OPCO_Sales Org" LongName="Org vente" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="5" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[CF01]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Distribution channel" LongName="Réseau de distribution" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="15" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[40]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Assortment grade" LongName="Niveau d'assortiment" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[C1]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Opco_COC_Number" LongName="Opco_COC_Number" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Product Status" LongName="Product Status" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[31]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Product Status Validity Date From" LongName="Product Status Validity Date From" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[23/08/2016]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Item Category Group" LongName="Item Category Group" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[ZPDT]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Sales Unit" LongName="Unité de vente" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[EA]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme Indicator" LongName="Timber Scheme Indicator" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme Start Date" LongName="Timber Scheme Start Date" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme End Date" LongName="Timber Scheme End Date" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Hazardous" LongName="Hazardous" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Restricted Sale" LongName="Vente limitée" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_SAP Spare Parts Availability" LongName="SAP Spare Parts Availability" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Discount_Type" LongName="Discount Allowed" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[NO]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Price Prompt" LongName="Price Prompt" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="2" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[NO]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Code" LongName="TAX Code" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[VAT]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Class" LongName="TAX Class" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[2]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Country" LongName="TAX Country" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[FR]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_WEEE Cat" LongName="WEEE Cat" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_WEEE Sub Cat" LongName="WEEE Sub Cat" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+							</Attributes>
+						</Attribute>
+					</Attributes>
+				</Attribute>
+				<Attribute Name="Core_Brand" LongName="Marque" Sequence="-1" AttributeParentName="Core" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="3775" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Fertiligene]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Core_Colour" LongName="Couleur" Sequence="-1" AttributeParentName="Core" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[RED]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Medium Description" LongName="Libellé moyen" Sequence="-1" AttributeParentName="Descriptions" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Soufre 750 g]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Short Description" LongName="Libellé court" Sequence="-1" AttributeParentName="Descriptions" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[RED Fertiligene ]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Bullet Point 07" LongName="Puces description 07" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Bullet Point 09" LongName="Puces description 09" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Bullet Point 10" LongName="Puces description 10" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Tech Spec 01" LongName="Spéc tech (tableau) 01" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Tech Spec 04" LongName="Spéc tech (tableau) 04" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Test: data]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Tech Spec 05" LongName="Spéc tech (tableau) 05" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Brand: Fertiligene]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Tech Spec 23" LongName="Spéc tech (tableau) 23" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Marque: Fertiligene]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Tech Spec 24" LongName="Spéc tech (tableau) 24" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Colour description: Clear]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Selling Copy" LongName="Texte avantages marketing" Sequence="-1" AttributeParentName="Copy" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Le soufre pulvérisation FERTILIGÈNE est un fongicide qui combat efficacement l'oïdium, la tavelure et l'érinose sur vos cultures ornementales, fruitières, potagères et la vigne. Sa formule en granulés dispersables garantit une utilisation facile, sans poussière et sans risque de boucher votre pulvérisateur]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Unique Selling Point 01" LongName="Puces avantages marketing 01" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Nom homologué ]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Other Shipping Methods" LongName="Other Shipping Methods" Sequence="-1" AttributeParentName="Shipping Method" AttributeType="SimpleCollection" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="22" Sequence="0" DisplayValue="" Locale="fr_FR">
+							<![CDATA[SHPM_CAFR_183]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Primary Classification" LongName="Catégorie principale" Sequence="-1" AttributeParentName="Classification" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="69213" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[cat_id_3576]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Project Name" LongName="Nom de projet" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[cp test v2]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Project Type" LongName="Type de projet" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="2" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[LIVE]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Publishing Status" LongName="Statut de publication" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="3" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Publishable]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Herothumbnail" LongName="Herothumbnail" Sequence="-1" AttributeParentName="Digital Assets" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[https://kfgint.riversand.com:8443/MAMDev/assets/1/B8AC9759D45547D9AEF177F0DE13B7C8/img/4C9C743A154D4108B06FEF8CAB202CEC/thumb_4C9C743A154D4108B06FEF8CAB202CEC.jpg]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="HeroID" LongName="HeroID" Sequence="-1" AttributeParentName="Digital Assets" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[4C9C743A154D4108B06FEF8CAB202CEC]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Hero Image" LongName="Hero Image" Sequence="-1" AttributeParentName="Digital Assets" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[https://kfgint.riversand.com:8443/MAMDev/assets/1/B8AC9759D45547D9AEF177F0DE13B7C8/img/4C9C743A154D4108B06FEF8CAB202CEC/3121970136999_01P.jpg]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Article Freight group" LongName="Groupe d'article fret" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[Z001]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="CHIPS" LongName="CHIPS" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Content unit" LongName="Unité du contenu" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[KG]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="COSHH" LongName="COSHH" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="2" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[NO]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="EAN CATEGORY" LongName="Categorie GTIN" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[ZB]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="EAN Code" LongName="Code EAN / GTIN" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[3121970136999]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Net contents" LongName="Contenus nets" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[0.750]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Own_Brand_Flag" LongName="SAP Titre_Marque_Propre" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[2]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="SAP Article No" LongName="Numéro d'article de SAP" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[000000000100052364]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="SAP Product Description" LongName="Description de produit SAP" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[SOUFRE MINERAL NATUREN 750G]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Base Unit Gross Weight" LongName="Poids du paquet" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="kg" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[0.500]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Base Unit Height" LongName="Height" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="cm" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[19.000]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Base Unit Length" LongName="Length" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="cm" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[5.500]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Base Unit Width" LongName="Width" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="cm" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[14.000]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="SAP_Dimensions" LongName="Size/Dimensions" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="deletion_flag" LongName="Deletion Flag" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Hierarchy Node" LongName="Article Hierarchy Node" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[25030001]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Article Type" LongName="Article Type" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[ZTRD]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Dimension Unit" LongName="Dimension Unit" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[CM]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="CFR Product Status" LongName="CFR Product Status" Sequence="-1" AttributeParentName="Status Attributes" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[Approved]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Brand" LongName="SAP Brand" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[FERTILIGENE]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Pack quantity" LongName="Pack quantity" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[1.0]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Use_Safety information" LongName="Information de secours" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Produit phytosanitaire - Utiliser les phytosanitaires avec précaution, avant toute utilisation lire l'étiquette et les informations concernant le produit. Dangereux - respecter les précautions d'emploi]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Pack Size Denominator" LongName="Denominator" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[1]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Pack Size Numerator" LongName="Numerator" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[1]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Base Unit of Measure" LongName="Unit of Measure" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[EA]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Batch Article Flag" LongName="Batch Article Flag" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Fragile flag" LongName="Fragile flag" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="2" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[NO]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Volume" LongName="Volume" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="CDM" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[1.463]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Customer Description" LongName="Till Text" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[SOUFRE MINERAL ]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Tech_Organic" LongName="Utilisation en agriculture biologique" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Biologiques]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="SAP_Timber_Status" LongName="SAP Timber Status" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Transportation Group" LongName="Transportation Group" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[Z001]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Comparison_Price_Unit" LongName="Comparison Price Unit" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[1]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="MultiSKU ID" LongName="MultiSKU ID" Sequence="-1" AttributeParentName="MultiSKU Attributes" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[Autogenerated]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Use_Dosage" LongName="Dosage" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[75g/10l  d'eau ]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="360 Spin Asset URL" LongName="360 Spin Asset URL" Sequence="-1" AttributeParentName="Digital Assets" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Additionals" LongName="Additionals" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Alternate Classifications" LongName="Alternate Classifications" Sequence="-1" AttributeParentName="Classification" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Autosearch Keywords" LongName="Autosearch Keywords" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Body Copy" LongName="Texte description" Sequence="-1" AttributeParentName="Copy" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Brand Image" LongName="Brand Image" Sequence="-1" AttributeParentName="Digital Assets" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Brick_ID" LongName="Brick ID" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Bullet Point 01" LongName="Puces description  01" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Bullet Point 02" LongName="Puces description  02" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Bullet Point 03" LongName="Puces description  03" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Bullet Point 04" LongName="Puces description  04" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Bullet Point 05" LongName="Puces description  05" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Bullet Point 06" LongName="Puces description 06" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Bullet Point 08" LongName="Puces description 08" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Catalogue Code" LongName="Catalogue Code" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Channel Saleability" LongName="Channel Saleability" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Channel Visibility" LongName="Channel Visibility" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="ECatalog URL" LongName="ECatalog URL" Sequence="-1" AttributeParentName="Digital Assets" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Fulfilment BOM" LongName="Fulfilment BOM" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Group Type Of Range (GTR)" LongName="Group Type Of Range (GTR)" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Help and Advice Content Group" LongName="Groupe de contenu conseil et aide" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="HomeDelivery Shipping Method" LongName="Home Delivery Shipping Method" Sequence="-1" AttributeParentName="Shipping Method" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Icons" LongName="Icons" Sequence="-1" AttributeParentName="Digital Assets" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Keywords Default" LongName="Keywords Default" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Kitemark Indicator" LongName="Produit certifié Kitemark" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Long Description" LongName="Long Description" Sequence="-1" AttributeParentName="Descriptions" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Maximum Price" LongName="Maximum Price" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Minimum Price" LongName="Minimum Price" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="MultiSKU Name" LongName="MultiSKU Name" Sequence="-1" AttributeParentName="MultiSKU Attributes" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="MultiSKU Primary" LongName="MultiSKU Primary" Sequence="-1" AttributeParentName="MultiSKU Attributes" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Non reviewable" LongName="Non reviewable" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="OPCO Specific Vendors" LongName="OPCO Specific Vendors" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Complex" Locale="en_GB">
+					<Attributes>
+						<Attribute Name="OPCO Specific Vendors Instance Record" LongName="OPCO Specific Vendors Instance Record" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Complex" Locale="en_GB">
+							<Attributes>
+								<Attribute Name="OPCO_Vendor Sales Org" LongName="Purchasing Org" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Vendor Acc" LongName="Vendor Acc" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_PrimaryVendor" LongName="PrimaryVendor" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Purchasing Group" LongName="Purchasing Group" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Vendor Article No" LongName="Vendor Article No" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Country of Origin" LongName="Country of Origin" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Nil_return_flag" LongName="Nil Return Flag" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Pl. Deliv. Time" LongName="Pl. Deliv. Time" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Valid From" LongName="Valid From" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Valid To" LongName="Valid To" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Vendor Cust Cont No" LongName="Vendor Cust Cont No" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Vendor Email" LongName="Vendor Email" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Vendor Name" LongName="Vendor Name" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Vendor Sub Range" LongName="Vendor Sub Range" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+							</Attributes>
+						</Attribute>
+					</Attributes>
+				</Attribute>
+				<Attribute Name="PrimaryVendorNo" LongName="PrimaryVendorNo" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Product Configurator type" LongName="Product Configurator type" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Product Features Content Group" LongName="Groupe de contenu de caractéristique du produit" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Product Template" LongName="Product Template" Sequence="-1" AttributeParentName="Classification" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Recommendation Groups" LongName="Recommendation Groups" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Regulations Compliance Code" LongName="Regulations Compliance Code" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Room Facets" LongName="Room Facets" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="SAP Colour" LongName="SAP Colour" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Season" LongName="Season Category" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Season Year" LongName="Season Year" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Size Value" LongName="Size Value" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Store Stock Tolerance" LongName="Store Stock Tolerance" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Store Stockchecker Visibility" LongName="Store Stockchecker Visibility" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tactical_LibelleDescriptifArticle" LongName="Tactical LibelleDescriptifArticle" Sequence="-1" AttributeParentName="Descriptions" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 02" LongName="Spéc tech (tableau) 02" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 03" LongName="Spéc tech (tableau) 03" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 06" LongName="Spéc tech (tableau) 06" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 07" LongName="Spéc tech (tableau) 07" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 08" LongName="Spéc tech (tableau) 08" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 09" LongName="Spéc tech (tableau) 09" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 10" LongName="Spéc tech (tableau) 10" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 11" LongName="Spéc tech (tableau) 11" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 12" LongName="Spéc tech (tableau) 12" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 13" LongName="Spéc tech (tableau) 13" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 14" LongName="Spéc tech (tableau) 14" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 15" LongName="Spéc tech (tableau) 15" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 16" LongName="Spéc tech (tableau) 16" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 17" LongName="Spéc tech (tableau) 17" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 18" LongName="Spéc tech (tableau) 18" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 19" LongName="Spéc tech (tableau) 19" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 20" LongName="Spéc tech (tableau) 20" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 21" LongName="Spéc tech (tableau) 21" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 22" LongName="Spéc tech (tableau) 22" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 25" LongName="Spéc tech (tableau) 25" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 26" LongName="Spéc tech (tableau) 26" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 27" LongName="Spéc tech (tableau) 27" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 28" LongName="Spéc tech (tableau) 28" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 29" LongName="Spéc tech (tableau) 29" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 30" LongName="Spéc tech (tableau) 30" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 31" LongName="Spéc tech (tableau) 31" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 32" LongName="Spéc tech (tableau) 32" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 33" LongName="Spéc tech (tableau) 33" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 34" LongName="Spéc tech (tableau) 34" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 35" LongName="Spéc tech (tableau) 35" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 36" LongName="Spéc tech (tableau) 36" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 37" LongName="Spéc tech (tableau) 37" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 38" LongName="Spéc tech (tableau) 38" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 39" LongName="Spéc tech (tableau) 39" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 40" LongName="Spéc tech (tableau) 40" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Trading" LongName="Trading" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 02" LongName="Puces avantages marketing 02" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 03" LongName="Puces avantages marketing 03" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 04" LongName="Puces avantages marketing 04" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 05" LongName="Puces avantages marketing 05" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 06" LongName="Puces avantages marketing 06" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 07" LongName="Puces avantages marketing 07" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 08" LongName="Puces avantages marketing 08" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 09" LongName="Puces avantages marketing 09" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 10" LongName="Puces avantages marketing 10" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Vendors" LongName="Vendors" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Complex" Locale="en_GB">
+					<Attributes>
+						<Attribute Name="Vendors Instance Record" LongName="Vendors Instance Record" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Complex" Locale="en_GB">
+							<Attributes>
+								<Attribute Name="Vendor Sales Org" LongName="Purchasing Org" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Vendor Acc" LongName="Vendor Acc" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="PrimaryVendor" LongName="PrimaryVendor" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Purchasing Group" LongName="Purchasing Group" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Vendor Article No" LongName="Vendor Article No" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Country of Origin" LongName="Country of Origin" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Nil_return_flag" LongName="Nil Return Flag" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Pl. Deliv. Time" LongName="Pl. Deliv. Time" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Valid From" LongName="Valid From" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Valid To" LongName="Valid To" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Vendor Cust Cont No" LongName="Vendor Cust Cont No" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Vendor Email" LongName="Vendor Email" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Vendor Name" LongName="Vendor Name" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Vendor Sub Range" LongName="Vendor Sub Range" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+							</Attributes>
+						</Attribute>
+					</Attributes>
+				</Attribute>
+				<Attribute Name="Video URL" LongName="Video URL" Sequence="-1" AttributeParentName="Digital Assets" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="VOC Level" LongName="VOC Level" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Product height" LongName="Hauteur de produit" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Product height" LongName="Product height" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Suitable" LongName="Adapté à" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Suitable" LongName="Suitable" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Suitable" LongName="Adapté à" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Core_Colour group" LongName="Colour group" Sequence="-1" AttributeParentName="Core" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Composition" LongName="Composition" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Composition" LongName="Composition" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Coverage" LongName="Couverture" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Coverage" LongName="Couverture" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Coverage" LongName="Coverage" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Coverage" LongName="Coverage" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Std_Guarantee specifics" LongName="Détails de garantie" Sequence="-1" AttributeParentName="Standard" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Product diameter" LongName="Diamètre de produit" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Dosage" LongName="Dosage" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Duration" LongName="Duration" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Duration" LongName="Durée" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Product thickness" LongName="Epaisseur de produit" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Material state" LongName="Etat de la matière" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Core_Range" LongName="Gamme" Sequence="-1" AttributeParentName="Core" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Std_Guarantee" LongName="Garantie" Sequence="-1" AttributeParentName="Standard" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Std_Guarantee specifics" LongName="Guarantee specifics" Sequence="-1" AttributeParentName="Standard" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Std_Guarantee type" LongName="Guarantee type" Sequence="-1" AttributeParentName="Standard" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Included" LongName="Included" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Included" LongName="Inclus" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Instructions for care" LongName="Instructions  d'entretien" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Instructions for care" LongName="Instructions for care" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Instructions for fitting" LongName="Instructions for fitting" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Instructions for storage" LongName="Instructions for storage" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Instructions for use" LongName="Instructions for use" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Instructions for fitting" LongName="Instructions pour le raccord" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Instructions for storage" LongName="Instructions pour le stockage" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Product width" LongName="Largeur de produit" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Product length" LongName="Longueur de produit" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Core_Material" LongName="Material" Sequence="-1" AttributeParentName="Core" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Instructions for use" LongName="Mode d'emploi" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Model name" LongName="Model name" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Model name/number" LongName="Model name/number" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Model number" LongName="Model number" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Not suitable" LongName="Ne convient pas à" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Model name" LongName="Nom du modèle" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Model name/number" LongName="Nom du modèle/numéro" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Not included" LongName="Non inclus" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Std_Standard" LongName="Norme(s)" Sequence="-1" AttributeParentName="Standard" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Not included" LongName="Not included" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Not suitable" LongName="Not suitable" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Model number" LongName="Numéro du modèle" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Core_Pack quantity" LongName="Pack quantity" Sequence="-1" AttributeParentName="Core" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Core_Pack type" LongName="Pack type" Sequence="-1" AttributeParentName="Core" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Period for use" LongName="Period for use" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Type_Pest_control_type" LongName="Pest control type" Sequence="-1" AttributeParentName="Type" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Product weight" LongName="Poids de produit" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Power source" LongName="Power source" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Ready to use" LongName="Prêt à l'emploi" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Product depth" LongName="Product depth" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Core_Product type" LongName="Product type" Sequence="-1" AttributeParentName="Core" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Wattage" LongName="Puissance électrique en Watts" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Weatherproof" LongName="Resistant aux intempéries" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Safety information" LongName="Safety information" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Std_Standard" LongName="Standard" Sequence="-1" AttributeParentName="Standard" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Suitable" LongName="Suitable" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Voltage" LongName="Tension" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Type_Pest_control_type" LongName="Type de contrôle antiparasitaire" Sequence="-1" AttributeParentName="Type" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Volume" LongName="Volume" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+			</Attributes>
+			<Relationships />
+		</Entity>
+		<Entity ExternalId="3121970138900" LongName="ANTI MALADIE POTAGER NATUREN 200G" EntityTypeName="Product" ContainerName="Castorama France" OrganizationName="Kingfisher Group" CategoryName="25030001" CategoryLongName="(25030001)Lutte contre les nuisibles" CategoryPath="1//25//2503//250300//25030001" Locale="fr_FR">
+			<Attributes>
+				<Attribute Name="A-Assets" LongName="A-Assets" Sequence="-1" AttributeParentName="Digital Assets" AttributeType="ComplexCollection" Locale="en_GB">
+					<Attributes>
+						<Attribute Name="A-Assets Instance Record" LongName="A-Assets Instance Record" Sequence="0" AttributeParentName="Digital Assets" AttributeType="Complex" Locale="en_GB">
+							<Attributes>
+								<Attribute Name="A-AssetSequence" LongName="A-AssetSequence" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[0]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetDescription" LongName="A-AssetDescription" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetDisplayName" LongName="A-AssetDisplayName" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetFileName" LongName="A-AssetFileName" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[3121970138900_01P.jpg]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetID" LongName="A-AssetID" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[0AF75720670A496E855A4E680C32AA9C]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetImageThumb" LongName="A-AssetImageThumb" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetImageType" LongName="A-AssetImageType" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetKind" LongName="A-AssetKind" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetLabels" LongName="A-AssetLabels" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetLocalURL" LongName="A-AssetLocalURL" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[https://kfgint.riversand.com:8443/MAMDev/assets/1/B8AC9759D45547D9AEF177F0DE13B7C8/img/0AF75720670A496E855A4E680C32AA9C/3121970138900_01P.jpg]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetPrimary" LongName="A-AssetPrimary" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="100" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[Primary]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetProductDescription" LongName="A-AssetProductDescription" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetRenditions" LongName="A-AssetRenditions" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[<?xml version="1.0" encoding="utf-16"?><Renditions />]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetSize" LongName="A-AssetSize" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[155649]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetThumbnailURL" LongName="A-AssetThumbnailURL" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[https://kfgint.riversand.com:8443/MAMDev/assets/1/B8AC9759D45547D9AEF177F0DE13B7C8/img/0AF75720670A496E855A4E680C32AA9C/thumb_0AF75720670A496E855A4E680C32AA9C.jpg]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-AssetType" LongName="A-AssetType" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[img]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="A-FilePath" LongName="A-FilePath" Sequence="-1" AttributeParentName="A-Assets" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[\\RSAZ-KFDEVWEB\MAMDevAssets/1/B8AC9759D45547D9AEF177F0DE13B7C8/img/0AF75720670A496E855A4E680C32AA9C/3121970138900_01P.jpg]]>
+										</Value>
+									</Values>
+								</Attribute>
+							</Attributes>
+						</Attribute>
+					</Attributes>
+				</Attribute>
+				<Attribute Name="OPCO Specific SAP Attributes" LongName="OPCO Specific SAP Attributes" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="ComplexCollection" Locale="en_GB">
+					<Attributes>
+						<Attribute Name="OPCO Specific SAP Attributes Instance Record" LongName="OPCO Specific SAP Attributes Instance Record" Sequence="0" AttributeParentName="SAP Operational" AttributeType="Complex" Locale="en_GB">
+							<Attributes>
+								<Attribute Name="OPCO_Sales Org" LongName="Org vente" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="5" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[CF01]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Distribution channel" LongName="Réseau de distribution" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="12" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[10]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Assortment grade" LongName="Niveau d'assortiment" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[C8]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Opco_COC_Number" LongName="Opco_COC_Number" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Product Status" LongName="Product Status" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[31]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Product Status Validity Date From" LongName="Product Status Validity Date From" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[23/08/2016]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Item Category Group" LongName="Item Category Group" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[ZPDT]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Sales Unit" LongName="Unité de vente" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[EA]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme Indicator" LongName="Timber Scheme Indicator" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme Start Date" LongName="Timber Scheme Start Date" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme End Date" LongName="Timber Scheme End Date" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Hazardous" LongName="Hazardous" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Restricted Sale" LongName="Vente limitée" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_SAP Spare Parts Availability" LongName="SAP Spare Parts Availability" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Discount_Type" LongName="Discount Allowed" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[YES]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Price Prompt" LongName="Price Prompt" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="2" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[NO]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Code" LongName="TAX Code" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[VAT]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Class" LongName="TAX Class" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[2]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Country" LongName="TAX Country" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[FR]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_WEEE Cat" LongName="WEEE Cat" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_WEEE Sub Cat" LongName="WEEE Sub Cat" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+							</Attributes>
+						</Attribute>
+						<Attribute Name="OPCO Specific SAP Attributes Instance Record" LongName="OPCO Specific SAP Attributes Instance Record" Sequence="1" AttributeParentName="SAP Operational" AttributeType="Complex" Locale="en_GB">
+							<Attributes>
+								<Attribute Name="OPCO_Sales Org" LongName="Org vente" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="5" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[CF01]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Distribution channel" LongName="Réseau de distribution" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="13" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[20]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Assortment grade" LongName="Niveau d'assortiment" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[C8]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Opco_COC_Number" LongName="Opco_COC_Number" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Product Status" LongName="Product Status" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[20]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Product Status Validity Date From" LongName="Product Status Validity Date From" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[01/01/2017]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Item Category Group" LongName="Item Category Group" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[ZPDT]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Sales Unit" LongName="Unité de vente" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[EA]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme Indicator" LongName="Timber Scheme Indicator" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme Start Date" LongName="Timber Scheme Start Date" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme End Date" LongName="Timber Scheme End Date" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Hazardous" LongName="Hazardous" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Restricted Sale" LongName="Vente limitée" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_SAP Spare Parts Availability" LongName="SAP Spare Parts Availability" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Discount_Type" LongName="Discount Allowed" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[NO]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Price Prompt" LongName="Price Prompt" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="2" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[NO]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Code" LongName="TAX Code" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[VAT]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Class" LongName="TAX Class" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[2]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Country" LongName="TAX Country" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[FR]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_WEEE Cat" LongName="WEEE Cat" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_WEEE Sub Cat" LongName="WEEE Sub Cat" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+							</Attributes>
+						</Attribute>
+						<Attribute Name="OPCO Specific SAP Attributes Instance Record" LongName="OPCO Specific SAP Attributes Instance Record" Sequence="2" AttributeParentName="SAP Operational" AttributeType="Complex" Locale="en_GB">
+							<Attributes>
+								<Attribute Name="OPCO_Sales Org" LongName="Org vente" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="5" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[CF01]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Distribution channel" LongName="Réseau de distribution" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="15" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[40]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Assortment grade" LongName="Niveau d'assortiment" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[C8]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Opco_COC_Number" LongName="Opco_COC_Number" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Product Status" LongName="Product Status" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[31]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Product Status Validity Date From" LongName="Product Status Validity Date From" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[23/08/2016]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Item Category Group" LongName="Item Category Group" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[ZPDT]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Sales Unit" LongName="Unité de vente" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[EA]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme Indicator" LongName="Timber Scheme Indicator" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme Start Date" LongName="Timber Scheme Start Date" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme End Date" LongName="Timber Scheme End Date" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Hazardous" LongName="Hazardous" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Restricted Sale" LongName="Vente limitée" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_SAP Spare Parts Availability" LongName="SAP Spare Parts Availability" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Discount_Type" LongName="Discount Allowed" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[NO]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Price Prompt" LongName="Price Prompt" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="2" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[NO]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Code" LongName="TAX Code" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[VAT]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Class" LongName="TAX Class" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[2]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Country" LongName="TAX Country" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[FR]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_WEEE Cat" LongName="WEEE Cat" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_WEEE Sub Cat" LongName="WEEE Sub Cat" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+							</Attributes>
+						</Attribute>
+						<Attribute Name="OPCO Specific SAP Attributes Instance Record" LongName="OPCO Specific SAP Attributes Instance Record" Sequence="3" AttributeParentName="SAP Operational" AttributeType="Complex" Locale="en_GB">
+							<Attributes>
+								<Attribute Name="OPCO_Sales Org" LongName="Org vente" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="5" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[CF01]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Distribution channel" LongName="Réseau de distribution" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="14" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[30]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Assortment grade" LongName="Niveau d'assortiment" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[C8]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Opco_COC_Number" LongName="Opco_COC_Number" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Product Status" LongName="Product Status" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[31]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Product Status Validity Date From" LongName="Product Status Validity Date From" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[23/08/2016]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Item Category Group" LongName="Item Category Group" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[ZPDT]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Sales Unit" LongName="Unité de vente" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[EA]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme Indicator" LongName="Timber Scheme Indicator" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme Start Date" LongName="Timber Scheme Start Date" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Timber Scheme End Date" LongName="Timber Scheme End Date" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Hazardous" LongName="Hazardous" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Restricted Sale" LongName="Vente limitée" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_SAP Spare Parts Availability" LongName="SAP Spare Parts Availability" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Discount_Type" LongName="Discount Allowed" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[NO]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_Price Prompt" LongName="Price Prompt" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="2" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[NO]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Code" LongName="TAX Code" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[VAT]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Class" LongName="TAX Class" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[2]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_TAX Country" LongName="TAX Country" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[FR]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_WEEE Cat" LongName="WEEE Cat" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+								<Attribute Name="OPCO_WEEE Sub Cat" LongName="WEEE Sub Cat" Sequence="-1" AttributeParentName="OPCO Specific SAP Attributes" AttributeType="Simple" Locale="en_GB">
+									<Values>
+										<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+											<![CDATA[]]>
+										</Value>
+									</Values>
+								</Attribute>
+							</Attributes>
+						</Attribute>
+					</Attributes>
+				</Attribute>
+				<Attribute Name="Core_Colour" LongName="Couleur" Sequence="-1" AttributeParentName="Core" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[RED]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Medium Description" LongName="Libellé moyen" Sequence="-1" AttributeParentName="Descriptions" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Traitement des maladies du potager et de la vigne]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Short Description" LongName="Libellé court" Sequence="-1" AttributeParentName="Descriptions" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[RED ]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Bullet Point 07" LongName="Puces description 07" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Bullet Point 09" LongName="Puces description 09" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Bullet Point 10" LongName="Puces description 10" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Tech Spec 01" LongName="Spéc tech (tableau) 01" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Poids de produit: 200g]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Tech Spec 03" LongName="Spéc tech (tableau) 03" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Material: Steel]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Tech Spec 06" LongName="Spéc tech (tableau) 06" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Brand: 1001]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Tech Spec 23" LongName="Spéc tech (tableau) 23" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Selling Copy" LongName="Texte avantages marketing" Sequence="-1" AttributeParentName="Copy" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Facile à préparer, grâce aux sachets dose, les maladies les plus fréquentes du potager ne seront plus qu'un mauvais souvenir]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Other Shipping Methods" LongName="Other Shipping Methods" Sequence="-1" AttributeParentName="Shipping Method" AttributeType="SimpleCollection" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="22" Sequence="0" DisplayValue="" Locale="fr_FR">
+							<![CDATA[SHPM_CAFR_183]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Primary Classification" LongName="Catégorie principale" Sequence="-1" AttributeParentName="Classification" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="69213" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[cat_id_3576]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Project Name" LongName="Nom de projet" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[cp test v2]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Project Type" LongName="Type de projet" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="2" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[LIVE]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Publishing Status" LongName="Statut de publication" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="3" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Publishable]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Herothumbnail" LongName="Herothumbnail" Sequence="-1" AttributeParentName="Digital Assets" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[https://kfgint.riversand.com:8443/MAMDev/assets/1/B8AC9759D45547D9AEF177F0DE13B7C8/img/0AF75720670A496E855A4E680C32AA9C/thumb_0AF75720670A496E855A4E680C32AA9C.jpg]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="HeroID" LongName="HeroID" Sequence="-1" AttributeParentName="Digital Assets" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[0AF75720670A496E855A4E680C32AA9C]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Hero Image" LongName="Hero Image" Sequence="-1" AttributeParentName="Digital Assets" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[https://kfgint.riversand.com:8443/MAMDev/assets/1/B8AC9759D45547D9AEF177F0DE13B7C8/img/0AF75720670A496E855A4E680C32AA9C/3121970138900_01P.jpg]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Article Freight group" LongName="Groupe d'article fret" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[Z001]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="CHIPS" LongName="CHIPS" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Content unit" LongName="Unité du contenu" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[KG]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="COSHH" LongName="COSHH" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="2" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[NO]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="EAN CATEGORY" LongName="Categorie GTIN" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[ZB]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="EAN Code" LongName="Code EAN / GTIN" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[3121970138900]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Net contents" LongName="Contenus nets" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[0.200]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Own_Brand_Flag" LongName="SAP Titre_Marque_Propre" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[2]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="SAP Article No" LongName="Numéro d'article de SAP" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[000000000100065264]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="SAP Product Description" LongName="Description de produit SAP" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[ANTI MALADIE POTAGER NATUREN 200G]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Base Unit Gross Weight" LongName="Poids du paquet" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="kg" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[0.250]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Base Unit Height" LongName="Height" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="cm" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[18.500]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Base Unit Length" LongName="Length" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="cm" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[5.500]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Base Unit Width" LongName="Width" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="cm" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[14.100]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="SAP_Dimensions" LongName="Size/Dimensions" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="deletion_flag" LongName="Deletion Flag" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Hierarchy Node" LongName="Article Hierarchy Node" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[25030001]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Article Type" LongName="Article Type" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[ZTRD]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Dimension Unit" LongName="Dimension Unit" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[CM]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="CFR Product Status" LongName="CFR Product Status" Sequence="-1" AttributeParentName="Status Attributes" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[Approved]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Brand" LongName="SAP Brand" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[FERTILIGENE]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Pack quantity" LongName="Pack quantity" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[1.0]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Dim_Product weight" LongName="Poids de produit" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="g" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[200]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Use_Safety information" LongName="Information de secours" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Produit biocide - Utiliser les biocides avec précaution, avant toute utilisation lire l'étiquette et les informations concernant le produit.Dangereux - respecter les précautions d'emploi]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Pack Size Denominator" LongName="Denominator" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[1]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Pack Size Numerator" LongName="Numerator" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[1]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Base Unit of Measure" LongName="Unit of Measure" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[EA]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Batch Article Flag" LongName="Batch Article Flag" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Fragile flag" LongName="Fragile flag" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="2" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[NO]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Volume" LongName="Volume" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="CDM" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[1.435]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Customer Description" LongName="Till Text" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[ANTI MALADIE POTAGER NATUREN  200G]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Dim_Product thickness" LongName="Epaisseur de produit" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="0" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[0.18]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Tech_Organic" LongName="Utilisation en agriculture biologique" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Biologiques]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="SAP_Timber_Status" LongName="SAP Timber Status" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Transportation Group" LongName="Transportation Group" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[Z001]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Comparison_Price_Unit" LongName="Comparison Price Unit" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[1]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="MultiSKU ID" LongName="MultiSKU ID" Sequence="-1" AttributeParentName="MultiSKU Attributes" AttributeType="Simple" Locale="en_GB">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="en_GB">
+							<![CDATA[Autogenerated]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Tech Spec 32" LongName="Spéc tech (tableau) 32" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Paint/Stain/Varnish base: Water-based]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="Tech Spec 37" LongName="Spéc tech (tableau) 37" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values>
+						<Value Uom="" ValueRefId="-1" Sequence="-1" DisplayValue="" Locale="fr_FR">
+							<![CDATA[Application: Brush]]>
+						</Value>
+					</Values>
+				</Attribute>
+				<Attribute Name="360 Spin Asset URL" LongName="360 Spin Asset URL" Sequence="-1" AttributeParentName="Digital Assets" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Additionals" LongName="Additionals" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Alternate Classifications" LongName="Alternate Classifications" Sequence="-1" AttributeParentName="Classification" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Autosearch Keywords" LongName="Autosearch Keywords" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Body Copy" LongName="Texte description" Sequence="-1" AttributeParentName="Copy" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Brand Image" LongName="Brand Image" Sequence="-1" AttributeParentName="Digital Assets" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Brick_ID" LongName="Brick ID" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Bullet Point 01" LongName="Puces description  01" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Bullet Point 02" LongName="Puces description  02" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Bullet Point 03" LongName="Puces description  03" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Bullet Point 04" LongName="Puces description  04" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Bullet Point 05" LongName="Puces description  05" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Bullet Point 06" LongName="Puces description 06" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Bullet Point 08" LongName="Puces description 08" Sequence="-1" AttributeParentName="Bullets" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Catalogue Code" LongName="Catalogue Code" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Channel Saleability" LongName="Channel Saleability" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Channel Visibility" LongName="Channel Visibility" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="ECatalog URL" LongName="ECatalog URL" Sequence="-1" AttributeParentName="Digital Assets" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Fulfilment BOM" LongName="Fulfilment BOM" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Group Type Of Range (GTR)" LongName="Group Type Of Range (GTR)" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Help and Advice Content Group" LongName="Groupe de contenu conseil et aide" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="HomeDelivery Shipping Method" LongName="Home Delivery Shipping Method" Sequence="-1" AttributeParentName="Shipping Method" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Icons" LongName="Icons" Sequence="-1" AttributeParentName="Digital Assets" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Keywords Default" LongName="Keywords Default" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Kitemark Indicator" LongName="Produit certifié Kitemark" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Long Description" LongName="Long Description" Sequence="-1" AttributeParentName="Descriptions" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Maximum Price" LongName="Maximum Price" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Minimum Price" LongName="Minimum Price" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="MultiSKU Name" LongName="MultiSKU Name" Sequence="-1" AttributeParentName="MultiSKU Attributes" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="MultiSKU Primary" LongName="MultiSKU Primary" Sequence="-1" AttributeParentName="MultiSKU Attributes" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Non reviewable" LongName="Non reviewable" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="OPCO Specific Vendors" LongName="OPCO Specific Vendors" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Complex" Locale="en_GB">
+					<Attributes>
+						<Attribute Name="OPCO Specific Vendors Instance Record" LongName="OPCO Specific Vendors Instance Record" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Complex" Locale="en_GB">
+							<Attributes>
+								<Attribute Name="OPCO_Vendor Sales Org" LongName="Purchasing Org" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Vendor Acc" LongName="Vendor Acc" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_PrimaryVendor" LongName="PrimaryVendor" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Purchasing Group" LongName="Purchasing Group" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Vendor Article No" LongName="Vendor Article No" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Country of Origin" LongName="Country of Origin" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Nil_return_flag" LongName="Nil Return Flag" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Pl. Deliv. Time" LongName="Pl. Deliv. Time" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Valid From" LongName="Valid From" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Valid To" LongName="Valid To" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Vendor Cust Cont No" LongName="Vendor Cust Cont No" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Vendor Email" LongName="Vendor Email" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Vendor Name" LongName="Vendor Name" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="OPCO_Vendor Sub Range" LongName="Vendor Sub Range" Sequence="-1" AttributeParentName="OPCO Specific Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+							</Attributes>
+						</Attribute>
+					</Attributes>
+				</Attribute>
+				<Attribute Name="PrimaryVendorNo" LongName="PrimaryVendorNo" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Product Configurator type" LongName="Product Configurator type" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Product Features Content Group" LongName="Groupe de contenu de caractéristique du produit" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Product Template" LongName="Product Template" Sequence="-1" AttributeParentName="Classification" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Recommendation Groups" LongName="Recommendation Groups" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Regulations Compliance Code" LongName="Regulations Compliance Code" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Room Facets" LongName="Room Facets" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="SAP Colour" LongName="SAP Colour" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Season" LongName="Season Category" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Season Year" LongName="Season Year" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Size Value" LongName="Size Value" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Store Stock Tolerance" LongName="Store Stock Tolerance" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Store Stockchecker Visibility" LongName="Store Stockchecker Visibility" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tactical_LibelleDescriptifArticle" LongName="Tactical LibelleDescriptifArticle" Sequence="-1" AttributeParentName="Descriptions" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 02" LongName="Spéc tech (tableau) 02" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 04" LongName="Spéc tech (tableau) 04" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 05" LongName="Spéc tech (tableau) 05" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 07" LongName="Spéc tech (tableau) 07" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 08" LongName="Spéc tech (tableau) 08" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 09" LongName="Spéc tech (tableau) 09" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 10" LongName="Spéc tech (tableau) 10" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 11" LongName="Spéc tech (tableau) 11" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 12" LongName="Spéc tech (tableau) 12" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 13" LongName="Spéc tech (tableau) 13" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 14" LongName="Spéc tech (tableau) 14" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 15" LongName="Spéc tech (tableau) 15" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 16" LongName="Spéc tech (tableau) 16" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 17" LongName="Spéc tech (tableau) 17" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 18" LongName="Spéc tech (tableau) 18" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 19" LongName="Spéc tech (tableau) 19" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 20" LongName="Spéc tech (tableau) 20" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 21" LongName="Spéc tech (tableau) 21" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 22" LongName="Spéc tech (tableau) 22" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 24" LongName="Spéc tech (tableau) 24" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 25" LongName="Spéc tech (tableau) 25" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 26" LongName="Spéc tech (tableau) 26" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 27" LongName="Spéc tech (tableau) 27" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 28" LongName="Spéc tech (tableau) 28" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 29" LongName="Spéc tech (tableau) 29" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 30" LongName="Spéc tech (tableau) 30" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 31" LongName="Spéc tech (tableau) 31" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 33" LongName="Spéc tech (tableau) 33" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 34" LongName="Spéc tech (tableau) 34" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 35" LongName="Spéc tech (tableau) 35" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 36" LongName="Spéc tech (tableau) 36" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 38" LongName="Spéc tech (tableau) 38" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 39" LongName="Spéc tech (tableau) 39" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech Spec 40" LongName="Spéc tech (tableau) 40" Sequence="-1" AttributeParentName="Tech Specs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Trading" LongName="Trading" Sequence="-1" AttributeParentName="Functional" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 01" LongName="Puces avantages marketing 01" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 02" LongName="Puces avantages marketing 02" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 03" LongName="Puces avantages marketing 03" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 04" LongName="Puces avantages marketing 04" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 05" LongName="Puces avantages marketing 05" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 06" LongName="Puces avantages marketing 06" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 07" LongName="Puces avantages marketing 07" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 08" LongName="Puces avantages marketing 08" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 09" LongName="Puces avantages marketing 09" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Unique Selling Point 10" LongName="Puces avantages marketing 10" Sequence="-1" AttributeParentName="USPs" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Vendors" LongName="Vendors" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Complex" Locale="en_GB">
+					<Attributes>
+						<Attribute Name="Vendors Instance Record" LongName="Vendors Instance Record" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Complex" Locale="en_GB">
+							<Attributes>
+								<Attribute Name="Vendor Sales Org" LongName="Purchasing Org" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Vendor Acc" LongName="Vendor Acc" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="PrimaryVendor" LongName="PrimaryVendor" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Purchasing Group" LongName="Purchasing Group" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Vendor Article No" LongName="Vendor Article No" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Country of Origin" LongName="Country of Origin" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Nil_return_flag" LongName="Nil Return Flag" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Pl. Deliv. Time" LongName="Pl. Deliv. Time" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Valid From" LongName="Valid From" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Valid To" LongName="Valid To" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Vendor Cust Cont No" LongName="Vendor Cust Cont No" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Vendor Email" LongName="Vendor Email" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Vendor Name" LongName="Vendor Name" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+								<Attribute Name="Vendor Sub Range" LongName="Vendor Sub Range" Sequence="-1" AttributeParentName="Vendors" AttributeType="Simple" Locale="en_GB">
+									<Values />
+								</Attribute>
+							</Attributes>
+						</Attribute>
+					</Attributes>
+				</Attribute>
+				<Attribute Name="Video URL" LongName="Video URL" Sequence="-1" AttributeParentName="Digital Assets" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="VOC Level" LongName="VOC Level" Sequence="-1" AttributeParentName="SAP Operational" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Product height" LongName="Hauteur de produit" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Product height" LongName="Product height" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Suitable" LongName="Adapté à" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Suitable" LongName="Suitable" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Suitable" LongName="Adapté à" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Core_Brand" LongName="Brand" Sequence="-1" AttributeParentName="Core" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Core_Colour group" LongName="Colour group" Sequence="-1" AttributeParentName="Core" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Composition" LongName="Composition" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Composition" LongName="Composition" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Coverage" LongName="Couverture" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Coverage" LongName="Couverture" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Coverage" LongName="Coverage" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Coverage" LongName="Coverage" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Std_Guarantee specifics" LongName="Détails de garantie" Sequence="-1" AttributeParentName="Standard" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Product diameter" LongName="Diamètre de produit" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Dosage" LongName="Dosage" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Dosage" LongName="Dosage" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Duration" LongName="Duration" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Duration" LongName="Durée" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Material state" LongName="Etat de la matière" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Core_Range" LongName="Gamme" Sequence="-1" AttributeParentName="Core" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Std_Guarantee" LongName="Garantie" Sequence="-1" AttributeParentName="Standard" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Std_Guarantee specifics" LongName="Guarantee specifics" Sequence="-1" AttributeParentName="Standard" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Std_Guarantee type" LongName="Guarantee type" Sequence="-1" AttributeParentName="Standard" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Included" LongName="Included" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Included" LongName="Inclus" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Instructions for care" LongName="Instructions  d'entretien" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Instructions for care" LongName="Instructions for care" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Instructions for fitting" LongName="Instructions for fitting" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Instructions for storage" LongName="Instructions for storage" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Instructions for use" LongName="Instructions for use" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Instructions for fitting" LongName="Instructions pour le raccord" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Instructions for storage" LongName="Instructions pour le stockage" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Product width" LongName="Largeur de produit" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Product length" LongName="Longueur de produit" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Core_Material" LongName="Material" Sequence="-1" AttributeParentName="Core" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Instructions for use" LongName="Mode d'emploi" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Model name" LongName="Model name" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Model name/number" LongName="Model name/number" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Model number" LongName="Model number" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Not suitable" LongName="Ne convient pas à" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Model name" LongName="Nom du modèle" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Model name/number" LongName="Nom du modèle/numéro" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Not included" LongName="Non inclus" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Std_Standard" LongName="Norme(s)" Sequence="-1" AttributeParentName="Standard" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Not included" LongName="Not included" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Not suitable" LongName="Not suitable" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Model number" LongName="Numéro du modèle" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Core_Pack quantity" LongName="Pack quantity" Sequence="-1" AttributeParentName="Core" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Core_Pack type" LongName="Pack type" Sequence="-1" AttributeParentName="Core" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Period for use" LongName="Period for use" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Type_Pest_control_type" LongName="Pest control type" Sequence="-1" AttributeParentName="Type" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Power source" LongName="Power source" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Ready to use" LongName="Prêt à l'emploi" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Product depth" LongName="Product depth" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Core_Product type" LongName="Product type" Sequence="-1" AttributeParentName="Core" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Wattage" LongName="Puissance électrique en Watts" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Weatherproof" LongName="Resistant aux intempéries" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Safety information" LongName="Safety information" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Std_Standard" LongName="Standard" Sequence="-1" AttributeParentName="Standard" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Use_Suitable" LongName="Suitable" Sequence="-1" AttributeParentName="Usage" AttributeType="Simple" Locale="en_GB">
+					<Values />
+				</Attribute>
+				<Attribute Name="Tech_Voltage" LongName="Tension" Sequence="-1" AttributeParentName="Technical" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Type_Pest_control_type" LongName="Type de contrôle antiparasitaire" Sequence="-1" AttributeParentName="Type" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+				<Attribute Name="Dim_Volume" LongName="Volume" Sequence="-1" AttributeParentName="Dimension" AttributeType="Simple" Locale="fr_FR">
+					<Values />
+				</Attribute>
+			</Attributes>
+			<Relationships />
+		</Entity>
+	</Entities>
+</Data>

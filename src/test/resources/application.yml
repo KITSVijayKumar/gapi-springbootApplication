@@ -1,0 +1,6 @@
+applicationUrl: http://localhost:8080
+priceUrl: https://prices-api-stage.gapinp.kd.kfplc.com/v1/prices/05340767
+productLocationUrl: https://productlocation-api-stage.gapinp.kd.kfplc.com/
+productUrl: https://products-api-stage.gapinp.kd.kfplc.com
+product-rs-Url: https://products-rs-api-stage.gapinp.kd.kfplc.com
+product-rs-InternalUrl: https://products-rs-api-stage.gapinp.kd.kfplc.com/internal/CAFR/{ean}

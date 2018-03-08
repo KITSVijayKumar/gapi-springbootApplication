@@ -1,0 +1,77 @@
+{"properties": [
+  {
+    "name": "url",
+    "type": "java.lang.String",
+    "description": "A description for 'url'"
+  },
+  {
+    "name": "priceUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'priceUrl'"
+  },
+  {
+    "name": "productLocationUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'productLocationUrl'"
+  },
+  {
+    "name": "vurl",
+    "type": "java.lang.String",
+    "description": "A description for 'vurl'"
+  },
+  {
+    "name": "productUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'productUrl'"
+  },
+  {
+    "name": "productUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'productUrl'"
+  },
+  {
+    "name": "product-rs-InternalUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'product-rs-InternalUrl'"
+  },
+  {
+    "name": "product-rs-Url",
+    "type": "java.lang.String",
+    "description": "A description for 'product-rs-Url'"
+  },
+  {
+    "name": "applicationUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'applicationUrl'"
+  },
+  {
+    "name": "product-rs_OnlyPrice",
+    "type": "java.lang.String",
+    "description": "A description for 'product-rs_OnlyPrice'"
+  },
+  {
+    "name": "product-rs_IncludePRICE",
+    "type": "java.lang.String",
+    "description": "A description for 'product-rs_IncludePRICE'"
+  },
+  {
+    "name": "product-rs_OnlyPrice",
+    "type": "java.lang.String",
+    "description": "A description for 'product-rs_OnlyPrice'"
+  },
+  {
+    "name": "stockUrlStage",
+    "type": "java.lang.String",
+    "description": "A description for 'stockUrlStage'"
+  },
+  {
+    "name": "storesUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'storesUrl'"
+  },
+  {
+    "name": "fulfilmentUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'fulfilmentUrl'"
+  }
+]}
